@@ -1,3 +1,5 @@
+# A fork from https://gitlab.com/nakst/essence.git
+
 # **Essence** — An Operating System
 
 ![Discord](https://img.shields.io/discord/703653809943085186?color=blue) ![Automated build status](https://img.shields.io/github/workflow/status/nakst/build-essence/nightly)
